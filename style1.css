@@ -22,11 +22,11 @@ nav ul li a{
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
     margin: 10px;
-    color: #b81d1d;
+    color: white;
 }
 nav ul li a:hover{
     text-decoration: underline;
-    color: #ffffff;
+    color: #070707;
 }
         /* Start 1st section */
 #first-section{
