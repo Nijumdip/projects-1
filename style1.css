@@ -5,7 +5,7 @@ body{
 }
         /* Strat nav */
 nav{
-    background-color: rgb(105, 169, 211);
+    background-color: #f19751;
     margin: 0;
     padding:5px;
 }
@@ -22,11 +22,11 @@ nav ul li a{
     font-family: 'Raleway', sans-serif;
     text-decoration: none;
     margin: 10px;
-    color: maroon;
+    color: #b81d1d;
 }
 nav ul li a:hover{
     text-decoration: underline;
-    color: rgb(255, 255, 255);
+    color: #ffffff;
 }
         /* Start 1st section */
 #first-section{
@@ -45,11 +45,11 @@ h2{
     font-family: 'Ubuntu', sans-serif;
     font-size:50px;
     font-weight:900px;
-    color: maroon;
+    color: #ca4f29;
     line-height:0%;
 }
 #first-section .first-left-div span{
-    color: rgb(34, 0, 128);
+    color: #c54e2a;
     font-size: 40px;
 }
 #first-section .first-left-div p{
@@ -59,7 +59,7 @@ h2{
     font-family: 'Raleway', sans-serif;
     text-decoration:none;
     border-radius:20px;
-    background-image:linear-gradient(to right,rgb(128, 0, 0),rgb(34, 0, 128));
+    background-image:linear-gradient(to right,#b83108,rgb(128, 87, 0));
     color:white;
     padding: 10px 20px;
 }
@@ -78,7 +78,7 @@ h2{
    background-image: url(Frame\ 58.jpg);
    background-repeat:no-repeat;
    background-size:100%;
-   border:2px solid #49010d7a;
+   border:2px solid #0a07c27a;
    border-radius:20px;
 }
 #second-section .second-left-div{
@@ -98,6 +98,7 @@ h2{
     font-weight:700px;
     line-height:20px;
     text-align:justify;
+    color: #ca4f29;
 }
         /* Start 3rd section */
 #third-section{
@@ -109,10 +110,11 @@ h2{
     font-size: 20px;
     font-weight: 400;
     line-height: 20px;
+    color: #ca4f29;
 }
         /* Start 4th section */
 #fourth-section{ 
-    background-color:cadetblue;
+    background-color:#dcdceed7;
 	display:flex;
 	flex-wrap:wrap;
 	justify-content:center;
@@ -125,7 +127,7 @@ h2{
     width:300px;
 	margin:10px;
     padding:10px;
-    background-color:#b84705ee;
+    background-color:#47478acc;
 	box-sizing:border-box;
 	box-shadow:2px 4px 5px black; 
 }
@@ -139,12 +141,12 @@ h2{
 }
 .card-body h2{
     text-align:center;
-	color:white;
+	color:whitesmoke;
 }
 .card-body p{
     text-align:justify;
 	line-height:1.5rem;
-	color:white;
+	color:whitesmoke;
 }
         /* Start 5th section */
 #fifth-section{
